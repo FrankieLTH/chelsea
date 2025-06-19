@@ -1,0 +1,11 @@
+form{
+    width: 400px;
+    margin:100px auto;
+    border-radius: 5px;
+    background-color: li;
+}
+.dn{
+    text-align: center;
+    border-top: 1 solid gray;
+    justify-content: center;
+}
